@@ -3,4 +3,11 @@ img {
 body {
     text-align: center;
     font-family: "Georgia";
+    background-color: SlateGray
+}
+h1{
+    color: #FFFFFF;
+}
+p{
+    color: seashell;
 }
